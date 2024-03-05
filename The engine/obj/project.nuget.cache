@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "crnMY1UDkReoPtBrjSS9Uj55NgmIS9NKda2WNb74uRtVwJNGH/KGVgwe0/OFGKVyEoNj7//0lPAq/z1rsb8j3g==",
+  "dgSpecHash": "HV5LIsv3DBV6bIkJykB01RPO/C3YuqPxTVaDTHfLdMQsGApKW8Jh3mMVr6Df+L9OjVxo/0R9MOc+IlXQ7YhVcw==",
   "success": true,
-  "projectFilePath": "E:\\project\\The engine\\The engine.csproj",
+  "projectFilePath": "E:\\project\\C-Project-\\The engine\\The engine.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nogal\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
     "C:\\Users\\nogal\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",

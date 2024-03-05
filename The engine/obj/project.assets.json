@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\project\\The engine\\The engine.csproj",
+      "projectUniqueName": "E:\\project\\C-Project-\\The engine\\The engine.csproj",
       "projectName": "The engine",
-      "projectPath": "E:\\project\\The engine\\The engine.csproj",
+      "projectPath": "E:\\project\\C-Project-\\The engine\\The engine.csproj",
       "packagesPath": "C:\\Users\\nogal\\.nuget\\packages\\",
-      "outputPath": "E:\\project\\The engine\\obj\\",
+      "outputPath": "E:\\project\\C-Project-\\The engine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
