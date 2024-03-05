@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\project\\C-Project-\\The engine\\The engine.csproj",
-      "projectName": "The engine",
-      "projectPath": "E:\\project\\C-Project-\\The engine\\The engine.csproj",
+      "projectUniqueName": "E:\\project\\C-Project-\\The engine\\TileMapEngine.csproj",
+      "projectName": "TileMapEngine",
+      "projectPath": "E:\\project\\C-Project-\\The engine\\TileMapEngine.csproj",
       "packagesPath": "C:\\Users\\nogal\\.nuget\\packages\\",
       "outputPath": "E:\\project\\C-Project-\\The engine\\obj\\",
       "projectStyle": "PackageReference",
