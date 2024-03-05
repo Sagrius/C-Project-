@@ -1,0 +1,15 @@
+E:\project\The engine\obj\Debug\net6.0\The engine.csproj.AssemblyReference.cache
+E:\project\The engine\obj\Debug\net6.0\The engine.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\The engine\obj\Debug\net6.0\The engine.AssemblyInfoInputs.cache
+E:\project\The engine\obj\Debug\net6.0\The engine.AssemblyInfo.cs
+E:\project\The engine\obj\Debug\net6.0\The engine.csproj.CoreCompileInputs.cache
+E:\project\The engine\bin\Debug\net6.0\The engine.exe
+E:\project\The engine\bin\Debug\net6.0\The engine.deps.json
+E:\project\The engine\bin\Debug\net6.0\The engine.runtimeconfig.json
+E:\project\The engine\bin\Debug\net6.0\The engine.dll
+E:\project\The engine\bin\Debug\net6.0\The engine.pdb
+E:\project\The engine\obj\Debug\net6.0\The engine.dll
+E:\project\The engine\obj\Debug\net6.0\refint\The engine.dll
+E:\project\The engine\obj\Debug\net6.0\The engine.pdb
+E:\project\The engine\obj\Debug\net6.0\The engine.genruntimeconfig.cache
+E:\project\The engine\obj\Debug\net6.0\ref\The engine.dll

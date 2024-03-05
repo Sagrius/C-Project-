@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "crnMY1UDkReoPtBrjSS9Uj55NgmIS9NKda2WNb74uRtVwJNGH/KGVgwe0/OFGKVyEoNj7//0lPAq/z1rsb8j3g==",
+  "success": true,
+  "projectFilePath": "E:\\project\\The engine\\The engine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nogal\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\nogal\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\nogal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\nogal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
